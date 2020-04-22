@@ -1,6 +1,7 @@
 # Tensorflow essentials
 A trip through the essentials of Tensorflow. 
 Much of what I know comes from the amazing book **Hands-On Machine Learning with Scikit-Learn and TensorFlow**. 
+The idea is to go from Tensorflow 1.x to Tensorflow 2.x, while exposing some essential concepts in Tensorflow development. 
 
 ## 1. Building a DNN from scratch
 > Yeah, this notebook is not as exciting as launching a rocket into space or discussing about quantum physics.
