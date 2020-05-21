@@ -9,3 +9,6 @@ What I would like to show though is the level of detail and attention that one n
 
 ## 2. Distributed computation 
 > Tensorflow offers the user different ditributed computation tools. In the notebook I explore the parallelization of simple graphs across several GPUs on a single machine. Parallelizing across multiple servers using Tensorflow is hard (and you must have a cluster at disposal). Other frameworks such as Apache MXnet offer fairly easier tools to parallelize the computation over clusters of machines. 
+
+## 3. CNNs 
+> Time to explore the building blocks of a Convolutional Neural Network from a low level implementation perspective (```@tensorflow 1.x```). Here we put together some of the basics of the ```Tensorflow``` library, while keeping the focus on some good common practices (```name scopes```,```variable initialization ```,```summaries```,...)-
